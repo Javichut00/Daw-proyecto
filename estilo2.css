@@ -1,3 +1,8 @@
 body {
     background-color: aquamarine;
+    font-size: 44px;
+}
+form imput {
+
+    margin: 5px 0px;
 }
